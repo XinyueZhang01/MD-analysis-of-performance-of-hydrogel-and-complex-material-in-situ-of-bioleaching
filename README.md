@@ -4,4 +4,4 @@ A multiscale digital twin of the bioleaching system. This includes simulating mo
 ![Alt text](/imageshydrogel/hydrogel2.png)
 ![Alt text](/imageshydrogel/hydrogel3.png)
 ![Alt text](/imageshydrogel/hydrogel4.png)
-![Alt text](/imageshydrogel/hydrogel5.png)
+
